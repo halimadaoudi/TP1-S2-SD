@@ -1,16 +1,10 @@
 Activité Pratique N° 1- Injection des dépendances
-
 Enoncé :
   1.	Créer l'interface IDao avec une méthode getDate
   2.	Créer une implémentation de cette interface
   3.	Créer l'interface IMetier avec une méthode calcul
   4.	Créer une implémentation de cette interface en utilisant le couplage faible
-  5.	Faire l'injection des dépendances : 
-  a. Par instanciation statique 
-  b. Par instanciation dynamique 
-  c. En utilisant le Framework Spring
-           - Version XML 
-           - Version annotations
+  5.	Faire l'injection des dépendances : par instanciation statique et par instanciation dynamique et enn utilisant le Framework Spring (Version XML et version annotations ) 
     
 Veuillez trouver ci-dessous le lien vers le rapport PDF détaillant ma réalisation du TP1 :
 

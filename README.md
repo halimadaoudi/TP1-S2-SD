@@ -1,5 +1,5 @@
-Activité Pratique N° 1- Injection des dépendances
-Enoncé :
+Activité Pratique N° 1- Injection des dépendances:
+
   1.	Créer l'interface IDao avec une méthode getDate
   2.	Créer une implémentation de cette interface
   3.	Créer l'interface IMetier avec une méthode calcul
